@@ -12,7 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
-import org.telegram.messenger.web.R;
+import org.telegram.messenger.bhadoo.R;
 import org.telegram.tgnet.TL_smsjobs;
 import org.telegram.ui.LaunchActivity;
 
